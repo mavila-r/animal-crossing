@@ -1,0 +1,41 @@
+.villager {
+    height: 85vh;
+  }
+  
+  .pokeballButton {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+    background: none;
+    padding: 50px 50px 0 50px;
+  }
+  
+  .pokeballImg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+  }
+  
+  .villagerInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0;
+  }
+  
+  .villagerInfoImg {
+    width: 100px;
+    margin: 20px 0;
+  }
+  
+  .villagerTitle {
+    margin: 50px 0;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgba(124, 166, 252, 1);
+      
+    
+  }
+  
